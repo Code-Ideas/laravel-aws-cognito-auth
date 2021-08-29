@@ -10,10 +10,10 @@
     }
   ],
   "require": {
-    "php": ">= 5.6.4",
-    "aws/aws-sdk-php-laravel": "^3.1",
-    "nesbot/carbon": "~1.20",
-    "laravel/framework": "^5.7.0"
+    "php": "^7.3|^8.0",
+    "aws/aws-sdk-php-laravel": "^3",
+    "nesbot/carbon": "~2.52",
+    "laravel/framework": "^8.5"
   },
   "autoload": {
     "psr-0": {
